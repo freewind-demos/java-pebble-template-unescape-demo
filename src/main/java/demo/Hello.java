@@ -55,5 +55,4 @@ class Item {
         this.keywords = keywords;
         this.features = features;
     }
-
 }
