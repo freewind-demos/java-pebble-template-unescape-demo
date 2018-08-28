@@ -1,6 +1,6 @@
-Java Pebble Template Engine Demo
-================================
+Java Pebble Template Engine Unescape Content Demo
+=================================================
 
-Try [pebble](https://github.com/PebbleTemplates/pebble/) to render templates.
+`{{ danger | raw }}`
 
 Run `Hello.java` in your IDE.

@@ -1,0 +1,10 @@
+```
+<html>
+<body>
+<div>
+    &lt;hr&gt;</div>
+<div>
+    <hr></div>
+</body>
+</html>
+```
